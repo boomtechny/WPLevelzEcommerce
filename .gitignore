@@ -18,8 +18,11 @@ wp-config.php
 
 wordpress/wp-content/plugins/akismet/
 wordpress/wp-content/plugins/hello.php
+*/wp-content/plugins/jetpack 
+*/wp-content/plugins/woocommerce-services
+*/wp-content/plugins/woocommerce-gateway-paypal-express-checkout
 
-
+*/wp-content/themes/storefront
 *.htaccess
 xmlrpc.php
 wp-trackback.php
